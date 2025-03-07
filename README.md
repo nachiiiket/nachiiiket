@@ -5,11 +5,11 @@
 
 - 🔭 I’m currently working on [sorting visualizer](https://nachiiiket.github.io/searching-sorting-visualizer/)
 
-- 🌱 I’m currently learning **Perl**
+- 🌱 I’m currently learning more about **Artificial Intellingence**
 
 - 👨‍💻 All of my projects are available at [https://nachiketyawalkar.w3spaces.com](https://nachiketyawalkar.w3spaces.com)
 
-- 💬 Ask me about **blockchain technology, Web3**
+- 💬 Ask me about **AI/ML, Blockchain , Web3**
 
 - 📫 How to reach me **yawalkarnachiket@gmail.com**
 
